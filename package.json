@@ -1,0 +1,21 @@
+{
+  "name": "launch-flow",
+  "version": "1.0.0",
+  "description": "PDM 업무 자동화 시스템",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "25.2.2",
+    "@types/react": "19.2.13",
+    "typescript": "5.9.3"
+  }
+}
